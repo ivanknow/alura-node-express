@@ -1,0 +1,26 @@
+{
+  "name": "alura-node-express",
+  "version": "1.0.0",
+  "description": "https://cursos.alura.com.br/course/node-rest-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanknow/alura-node-express.git"
+  },
+  "author": "ivanknow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanknow/alura-node-express/issues"
+  },
+  "homepage": "https://github.com/ivanknow/alura-node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
